@@ -1,0 +1,35 @@
+{
+    "labels": {
+        "bluebird": {
+            "color": [
+                0,
+                0,
+                255
+            ],
+            "id": 1,
+            "id_categorie": 1,
+            "name": "bluebird"
+        },
+        "branch": {
+            "color": [
+                0,
+                255,
+                0
+            ],
+            "id": 2,
+            "id_categorie": 2,
+            "name": "branch"
+        },
+        "background": {
+            "color": [
+                0,
+                0,
+                0
+            ],
+            "id": 3,
+            "id_categorie": 3,
+            "name": "background"  
+        }
+    }
+}
+

@@ -1,0 +1,2 @@
+# Make sure the function signuatures stay on one line
+max_width = 120
